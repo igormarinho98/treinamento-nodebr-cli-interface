@@ -2,6 +2,6 @@
 
 ## Instructions:
 
-# npm install -> Install
+# npm install -> Install dependencies
 
 # npm run cli -> See Options
